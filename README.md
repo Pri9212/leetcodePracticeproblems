@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0134-gas-station) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
