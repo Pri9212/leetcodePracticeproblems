@@ -10,7 +10,7 @@ public:
         for(int j=i;j<nums.size();j++){
             int len=j-i+1;
             if(nums[j]==target) c++;
-            if(2LL*c>len){
+            if(2*c>len){
                 anscount++;
             }
         } 
