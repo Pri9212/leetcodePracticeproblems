@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0016-3sum-closest) |
 | [0134-gas-station](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0134-gas-station) |
 | [0485-max-consecutive-ones](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1470-shuffle-the-array) |
@@ -98,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
