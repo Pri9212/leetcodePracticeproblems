@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search Tree
 |  |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
