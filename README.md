@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,8 +170,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
