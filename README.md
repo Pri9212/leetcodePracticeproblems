@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0134-gas-station) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Simulation
@@ -151,11 +154,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0016-3sum-closest) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0016-3sum-closest) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -169,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3620-network-recovery-pathways) |
 ## Sliding Window
 |  |
@@ -196,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -206,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3620-network-recovery-pathways) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
