@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0016-3sum-closest) |
 | [0134-gas-station](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0134-gas-station) |
+| [0300-longest-increasing-subsequence](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0485-max-consecutive-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1301-number-of-paths-with-max-score) |
 | [1470-shuffle-the-array](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1470-shuffle-the-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0300-longest-increasing-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3620-network-recovery-pathways) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2812-find-the-safest-path-in-a-grid) |
