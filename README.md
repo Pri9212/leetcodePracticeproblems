@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0486-predict-the-winner) |
+| [1510-stone-game-iv](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0746-min-cost-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1301-number-of-paths-with-max-score) |
+| [1510-stone-game-iv](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1510-stone-game-iv) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -249,8 +251,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0486-predict-the-winner) |
+| [1510-stone-game-iv](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1510-stone-game-iv) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0070-climbing-stairs) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
