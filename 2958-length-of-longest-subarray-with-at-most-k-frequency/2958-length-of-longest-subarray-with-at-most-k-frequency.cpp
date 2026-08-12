@@ -1,26 +1,23 @@
 class Solution {
 public:
     int maxSubarrayLength(vector<int>& nums, int k) {
-        unordered_map<int, int> mp;
-        queue<int> q;
-
-        int ans = 0;
-
-        for (int i : nums) {
-            q.push(i);
-            mp[i]++;
-
-            // If frequency becomes greater than k,
-            // remove elements from the front
-            while (mp[i] > k) {
-                int x = q.front();
-                q.pop();
-                mp[x]--;
+      unordered_map<int,int>mp;
+      queue<int>arr;
+      //arr.push_back(num[0]);
+      int ans=0;
+      for(int i:nums){
+        mp[i]++;
+        arr.push(i);
+        while(mp[i]>k){
+        int x=arr.front();
+                
+        arr.pop();
+         mp[x]--;
             }
-
-            ans = max(ans, (int)q.size());
-        }
-
-        return ans;
+        
+       int n=arr.size();
+    ans=max(ans,n);
+      }
+      return ans;  
     }
 };
