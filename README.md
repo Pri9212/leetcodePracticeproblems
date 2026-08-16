@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0134-gas-station) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2029-stone-game-ix) |
 ## Memoization
 |  |
 | ------- |
@@ -281,10 +286,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -293,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2029-stone-game-ix) |
 ## Data Stream
 |  |
 | ------- |
