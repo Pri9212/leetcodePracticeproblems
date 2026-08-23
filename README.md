@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0134-gas-station) |
 | [1386-cinema-seat-allocation](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0424-longest-repeating-character-replacement) |
 | [1143-longest-common-subsequence](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2029-stone-game-ix) |
 ## Memoization
 |  |
