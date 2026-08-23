@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1301-number-of-paths-with-max-score) |
 | [1510-stone-game-iv](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1563-stone-game-v) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0424-longest-repeating-character-replacement) |
+| [1143-longest-common-subsequence](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -344,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
