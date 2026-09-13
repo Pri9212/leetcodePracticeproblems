@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0835-image-overlap) |
 | [1046-last-stone-weight](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1046-last-stone-weight) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1301-number-of-paths-with-max-score) |
 | [1386-cinema-seat-allocation](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1386-cinema-seat-allocation) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
