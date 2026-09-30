@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1470-shuffle-the-array) |
 | [1563-stone-game-v](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2029-stone-game-ix) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1137-n-th-tribonacci-number) |
 | [1510-stone-game-iv](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1563-stone-game-v) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1927-sum-game](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1386-cinema-seat-allocation) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
@@ -367,4 +371,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1143-longest-common-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
