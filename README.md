@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0300-longest-increasing-subsequence) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0022-generate-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0424-longest-repeating-character-replacement) |
 | [1143-longest-common-subsequence](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -374,9 +376,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0022-generate-parentheses) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
