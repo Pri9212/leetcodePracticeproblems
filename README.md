@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0225-implement-stack-using-queues) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0300-longest-increasing-subsequence) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0032-longest-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0424-longest-repeating-character-replacement) |
 | [1143-longest-common-subsequence](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -386,4 +389,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
