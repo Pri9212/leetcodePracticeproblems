@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0486-predict-the-winner) |
+| [0645-set-mismatch](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0645-set-mismatch) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0835-image-overlap) |
 | [1046-last-stone-weight](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1046-last-stone-weight) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0424-longest-repeating-character-replacement) |
+| [0645-set-mismatch](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1386-cinema-seat-allocation) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0016-3sum-closest) |
+| [0645-set-mismatch](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0645-set-mismatch) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1386-cinema-seat-allocation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
