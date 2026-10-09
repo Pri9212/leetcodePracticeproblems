@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0835-image-overlap) |
 | [1046-last-stone-weight](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1046-last-stone-weight) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1301-number-of-paths-with-max-score) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1386-cinema-seat-allocation) |
 | [1470-shuffle-the-array](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1470-shuffle-the-array) |
 | [1563-stone-game-v](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1563-stone-game-v) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0016-3sum-closest) |
 | [0645-set-mismatch](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -397,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0032-longest-valid-parentheses) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
