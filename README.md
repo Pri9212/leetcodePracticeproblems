@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0016-3sum-closest) |
+| [0053-maximum-subarray](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0053-maximum-subarray) |
 | [0134-gas-station](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0198-house-robber) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0300-longest-increasing-subsequence) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0053-maximum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
