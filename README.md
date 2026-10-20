@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0053-maximum-subarray) |
 | [0134-gas-station](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0134-gas-station) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0134-gas-station) |
 | [1386-cinema-seat-allocation](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0016-3sum-closest) |
 | [0189-rotate-array](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0189-rotate-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pri9212/leetcodePracticeproblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
